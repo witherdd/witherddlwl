@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18267969",
+      "name": "应用场景",
+      "font_class": "yingyongchangjing",
+      "unicode": "e99b",
+      "unicode_decimal": 59803
+    },
+    {
+      "icon_id": "18518982",
+      "name": "Basket",
+      "font_class": "Basket",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "19657985",
+      "name": "多选列表",
+      "font_class": "multipleChoiceList",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    }
+  ]
+}
